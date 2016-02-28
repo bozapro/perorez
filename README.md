@@ -1,16 +1,13 @@
 # Perorez
-=======
 
 Perorez is collection of helpful Android classes and method that every developer need on daily basis.
 
 # Usage
-======
 Add dependency into you `build.gradle`:
 
 ```compile 'com.bozapro.perorez:library:0.1.1'```
 
 # License
-======
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
