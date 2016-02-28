@@ -42,6 +42,7 @@ install {
                 name POM_NAME
                 description POM_DESCRIPTION
                 url POM_URL
+                artifactId = ARTIFACT_ID
 
                 licenses {
                     license {
