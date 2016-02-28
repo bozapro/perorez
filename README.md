@@ -1,5 +1,4 @@
-# Perorez
-
+# Perorez <img src="graphics/perorez-icon.png" width=100/>
 Perorez is collection of helpful Android classes and method that every developer need on daily basis.
 
 # Usage
