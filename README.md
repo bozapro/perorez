@@ -5,6 +5,9 @@ Perorez is collection of helpful Android classes and method that every developer
 
 # Usage
 ======
+Add dependency into you `build.gradle`:
+
+```compile 'com.bozapro.perorez:library:0.1.1'```
 
 # License
 ======
