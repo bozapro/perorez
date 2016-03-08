@@ -1,11 +1,4 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.bozapro.perorez">
 
-    <application
-        android:allowBackup="true"
-        android:label="Perorez"
-        android:supportsRtl="true">
-
-    </application>
-
 </manifest>
