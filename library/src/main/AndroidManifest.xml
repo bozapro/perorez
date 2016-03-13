@@ -1,4 +1,1 @@
-<manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.bozapro.perorez">
-
-</manifest>
+<manifest package="com.bozapro.perorez" />
