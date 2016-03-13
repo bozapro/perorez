@@ -1,10 +1,13 @@
-# Perorez <img src="graphics/perorez-icon.png" width=100/>
+# Perorez <img src="graphics/perorez-icon.png" width=100/> 
+
+[ ![Download](https://api.bintray.com/packages/bozapro/maven/Perorez/images/download.svg) ](https://bintray.com/bozapro/maven/Perorez/_latestVersion) [![Build Status](https://www.bitrise.io/app/681c4d1c7a60519e.svg?token=9wMJ4euoyhd3jUWwpZTkCA)](https://www.bitrise.io/app/681c4d1c7a60519e)
+
 Perorez is collection of helpful Android classes and method that every developer need on daily basis.
 
 # Usage
 Add dependency into you `build.gradle`:
 
-```compile 'com.bozapro.perorez:library:0.1.1'```
+```compile 'com.bozapro.perorez:library:0.1.2'```
 
 # License
 
